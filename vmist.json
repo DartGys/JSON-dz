@@ -1,0 +1,29 @@
+﻿[
+  {
+    "PublishingHouseId": 2,
+    "Title": "Пiдручник. Алгебра 8",
+    "PublishingHouse": {
+      "Id": 2,
+      "Name": "ГIМНАЗIЯ",
+      "Adress": "Адреса 2"
+    }
+  },
+  {
+    "PublishingHouseId": 1,
+    "Title": "Щоденник нейрохiрурга",
+    "PublishingHouse": {
+      "Id": 1,
+      "Name": "Видавництво старого лева",
+      "Adress": "Адреса 1"
+    }
+  },
+  {
+    "PublishingHouseId": 2,
+    "Title": "Посiбник. Алгебра 9",
+    "PublishingHouse": {
+      "Id": 2,
+      "Name": "ГIМНАЗIЯ",
+      "Adress": "Адреса 2"
+    }
+  }
+]
